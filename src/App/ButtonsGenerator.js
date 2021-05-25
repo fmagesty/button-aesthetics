@@ -19,6 +19,9 @@ const ButtonsGenerator = ({ colorNum }) => {
           style={{
             backgroundColor: `${color}`,
           }}
+          onClick={() => {
+            document.body.style.backgroundColor = color;
+          }}
         >
           {color}
         </button>

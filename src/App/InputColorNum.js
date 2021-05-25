@@ -4,21 +4,18 @@ import ButtonsGenerator from "./ButtonsGenerator";
 const InputColorNum = () => {
   const [input, setInput] = useState("");
 
-  const handleEnter = (e) => {
-    if (e.charCode === 13) {
-      console.log(input);
-    }
-  };
+  if (input > 1000) {
+    setInput("0");
+  }
 
   return (
     <div>
+      <h1>Type a number between 1 and 999</h1>
       <input
-        type="input"
-        placeholder="Choose the number of colors you want to have"
+        type="number"
+        placeholder="Type a number between 1 and 999"
         className="input-colorNum"
-        value={input}
         onChange={(e) => setInput(e.target.value)}
-        onKeyPress={handleEnter}
       />
       <ButtonsGenerator colorNum={input} />
     </div>

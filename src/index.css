@@ -7,9 +7,7 @@ body {
 }
 .input-colorNum {
   margin-top: 1rem;
+  margin-bottom: 1rem;
   width: 50%;
   height: 1.5rem;
-}
-.color-btn {
-  margin-top: 1rem;
 }

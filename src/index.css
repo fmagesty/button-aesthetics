@@ -1,0 +1,15 @@
+body {
+  /* background-color: #2e5090; */
+  background-color: black;
+  /* color: #ffff33; */
+  color: white;
+  text-align: center;
+}
+.input-colorNum {
+  margin-top: 1rem;
+  width: 50%;
+  height: 1.5rem;
+}
+.color-btn {
+  margin-top: 1rem;
+}

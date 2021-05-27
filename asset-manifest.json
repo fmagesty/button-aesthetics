@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/button-aesthetics/static/css/main.ff1fff13.chunk.css",
-    "main.js": "/button-aesthetics/static/js/main.5cc0b970.chunk.js",
-    "main.js.map": "/button-aesthetics/static/js/main.5cc0b970.chunk.js.map",
+    "main.css": "/button-aesthetics/static/css/main.812870f3.chunk.css",
+    "main.js": "/button-aesthetics/static/js/main.39c2ecb6.chunk.js",
+    "main.js.map": "/button-aesthetics/static/js/main.39c2ecb6.chunk.js.map",
     "runtime-main.js": "/button-aesthetics/static/js/runtime-main.a1faa595.js",
     "runtime-main.js.map": "/button-aesthetics/static/js/runtime-main.a1faa595.js.map",
-    "static/js/2.35dfa01f.chunk.js": "/button-aesthetics/static/js/2.35dfa01f.chunk.js",
-    "static/js/2.35dfa01f.chunk.js.map": "/button-aesthetics/static/js/2.35dfa01f.chunk.js.map",
+    "static/js/2.be3d875e.chunk.js": "/button-aesthetics/static/js/2.be3d875e.chunk.js",
+    "static/js/2.be3d875e.chunk.js.map": "/button-aesthetics/static/js/2.be3d875e.chunk.js.map",
     "index.html": "/button-aesthetics/index.html",
-    "static/css/main.ff1fff13.chunk.css.map": "/button-aesthetics/static/css/main.ff1fff13.chunk.css.map",
-    "static/js/2.35dfa01f.chunk.js.LICENSE.txt": "/button-aesthetics/static/js/2.35dfa01f.chunk.js.LICENSE.txt"
+    "static/css/main.812870f3.chunk.css.map": "/button-aesthetics/static/css/main.812870f3.chunk.css.map",
+    "static/js/2.be3d875e.chunk.js.LICENSE.txt": "/button-aesthetics/static/js/2.be3d875e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a1faa595.js",
-    "static/js/2.35dfa01f.chunk.js",
-    "static/css/main.ff1fff13.chunk.css",
-    "static/js/main.5cc0b970.chunk.js"
+    "static/js/2.be3d875e.chunk.js",
+    "static/css/main.812870f3.chunk.css",
+    "static/js/main.39c2ecb6.chunk.js"
   ]
 }

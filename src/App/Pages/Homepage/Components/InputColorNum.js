@@ -10,7 +10,7 @@ const InputColorNum = () => {
 
   return (
     <div>
-      <h1>Type a number between 1 and 999</h1>
+      <h1>Type a number between 1 and 1000</h1>
       <input
         type="number"
         placeholder="Type a number between 1 and 999"

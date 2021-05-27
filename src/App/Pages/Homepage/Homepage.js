@@ -1,5 +1,5 @@
 import React from "react";
-import InputColorNum from "./InputColorNum";
+import InputColorNum from "./Components/InputColorNum";
 
 const Homepage = () => {
   return (

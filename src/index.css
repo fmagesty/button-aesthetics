@@ -1,8 +1,8 @@
 body {
   /* background-color: #2e5090; */
-  background-color: black;
+  background-color: white;
   /* color: #ffff33; */
-  color: white;
+  color: black;
   text-align: center;
 }
 .input-colorNum {
@@ -10,4 +10,16 @@ body {
   margin-bottom: 1rem;
   width: 50%;
   height: 1.5rem;
+}
+.pages-btn > a {
+  text-decoration: none;
+  font-size: 1rem;
+  color: black;
+}
+.pages-btn {
+  border-radius: 10%;
+  margin: 0rem 1rem;
+}
+p {
+  font-size: 2rem;
 }

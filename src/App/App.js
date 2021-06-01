@@ -8,7 +8,7 @@ const App = () => {
     <Router>
       <div>
         <button className="pages-btn">
-          <Link to="/">Home</Link>
+          <Link to="/button-aesthetics">Home</Link>
         </button>
         <button className="pages-btn">
           <Link to="/about">What is this page about?</Link>
@@ -16,11 +16,11 @@ const App = () => {
       </div>
       <div>
         <Switch>
+          <Route exact path="/button-aesthetics">
+            <Homepage />
+          </Route>
           <Route path="/about">
             <About />
-          </Route>
-          <Route path="/">
-            <Homepage />
           </Route>
         </Switch>
       </div>
